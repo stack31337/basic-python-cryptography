@@ -7,7 +7,7 @@ import sys
 iv = b''  # IV
 key = b'' # Key
 
-# Şifreli metin (encrypt.py'den alınacak)
+# Şifreli metin (EncryptAES.py'den alınacak)
 ciphertext = b''
 
 # AES şifreli objesi oluşturma (CBC)
