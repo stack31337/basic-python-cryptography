@@ -1,5 +1,5 @@
 <h1>Bu kodlar sadece basit birer AES şifreleme algoritmasıdır.</h1>
-<h1>Bir text veya Python komutunu şifreledikten sonra şifreyi çözerek execute eder.<h1>
+<h2>Bir text veya Python komutunu şifreledikten sonra şifreyi çözerek execute eder.<h2>
   
 <h3>Adımlar:</h3>
 <h3>1- Öncelikle 16 byte keyimiz ve kullanmak istediğimiz text / kodumuzu EncryptAES scriptindeki "password" ve "plaintext" değişkenlerini kullanarak değiştiriyoruz, ardından EncryptAES scriptini çalıştırıyoruz.<h3>
