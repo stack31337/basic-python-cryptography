@@ -1,4 +1,4 @@
-<h1>Bu kodlar sadece basit birer AES şifreleme algoritmasıdır.</h1>
+<h1>Bu kodlar sadece basit bir AES şifreleme algoritmasından oluşur.</h1>
 <h2>Bir text veya Python komutunu şifreledikten sonra şifreyi çözerek execute eder.<h2>
   
 <h3>Adımlar:</h3>
