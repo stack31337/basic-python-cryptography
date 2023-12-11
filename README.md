@@ -8,6 +8,8 @@
 <h3>pip kurulumları:<h3>
 <h3>pip install pycryptodome</h3>
 
+src="https://i.hizliresim.com/qsuqdbd.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img 
+
 <h1>Educational Purposes Only</h1>
 
 <h3 align="left">Support ❤️ :3</h3>
