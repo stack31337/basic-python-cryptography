@@ -20,4 +20,6 @@ try:
     print("Çözülen Metin:", unpadded_text.decode('utf-8'))
     exec(unpadded_text.decode('utf-8')) # Çözülen metni çalıştır
 except ValueError as e:
+    print('Hata oluştu')
+    time.sleep(1)
     sys.exit
